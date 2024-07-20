@@ -9,59 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectPRN_RestaurantManagement
 build_property.RootNamespace = ProjectPRN_RestaurantManagement
-build_property.ProjectDir = C:\Users\tuana\OneDrive\Máy tính\Project_PRN221\ProjectPRN_RestaurantManagement\ProjectPRN_RestaurantManagement\
+build_property.ProjectDir = C:\Users\admin\OneDrive\Máy tính\PRN_Prj\ProjectPRN221_RestaurantManagement\ProjectPRN_RestaurantManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\tuana\OneDrive\Máy tính\Project_PRN221\ProjectPRN_RestaurantManagement\ProjectPRN_RestaurantManagement
+build_property.MSBuildProjectDirectory = C:\Users\admin\OneDrive\Máy tính\PRN_Prj\ProjectPRN221_RestaurantManagement\ProjectPRN_RestaurantManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Account/AccessDenied.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Account/Login.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Account/SignUp.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Account/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Error.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Index.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Manager/Index.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Manager/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Manager/Orders/OrderedProduct.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Manager/Orders/OrderedProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxPcmRlcnNcT3JkZXJlZFByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Privacy.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Product/PurchasedProducts.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Product/PurchasedProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxQdXJjaGFzZWRQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/_ViewImports.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Users/Profile/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUHJvZmlsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Users/Profile/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUHJvZmlsZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Users/Profile/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUHJvZmlsZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Users/Profile/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUHJvZmlsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Users/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tuana/OneDrive/Máy tính/Project_PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/_ViewStart.cshtml]
+[C:/Users/admin/OneDrive/Máy tính/PRN_Prj/ProjectPRN221_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

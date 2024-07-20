@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {}
+    "C:\\Users\\admin\\OneDrive\\Máy tính\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {
+    "C:\\Users\\admin\\OneDrive\\Máy tính\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Máy tính\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
         "projectName": "ProjectPRN_RestaurantManagement",
-        "projectPath": "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
-        "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\obj\\",
+        "projectPath": "C:\\Users\\admin\\OneDrive\\Máy tính\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\OneDrive\\Máy tính\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,17 +54,25 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.15, )"
+              "version": "[6.0.32, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.15, )"
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.32, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.15, )"
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.17, )"
             }
           },
           "imports": [
@@ -81,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

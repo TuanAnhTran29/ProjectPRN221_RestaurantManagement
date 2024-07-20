@@ -71,7 +71,7 @@ namespace ProjectPRN_RestaurantManagement.Pages.Account
             }
             else
             {
-                var user = new User();
+                var user = new Models.User();
                 user.Email = Input.Email;
                 user.RoleId = 3;
                 user.FirstName = Input.FirstName;
