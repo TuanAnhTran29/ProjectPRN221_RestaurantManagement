@@ -12,11 +12,11 @@
         {
             orderId = id;
             orderDate = date;
-            this.restaurantName = name;
+            restaurantName = name;
             this.totalQuantity = totalQuantity;
             this.totalAmount = totalAmount;
         }
 
-        
+
     }
 }

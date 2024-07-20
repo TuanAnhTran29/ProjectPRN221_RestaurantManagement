@@ -31,26 +31,28 @@ namespace ProjectPRN_RestaurantManagement.Pages.Account
 
             var user = await context.Users
                 .Include(u => u.Role)
-                .FirstOrDefaultAsync(u => u.Email == Input.Email && u.PasswordHash == Input.Password);
+                .FirstOrDefaultAsync(u => u.Email == Input.Email.Trim() && u.PasswordHash == Input.Password.Trim());
 
             if (user == null)
             {
                 String message = "Email or password is wrong! Try again";
                 ViewData["message"] = message;
-                ModelState.AddModelError(string.Empty, "Invalid login attempt.");
                 return Page();
             }
 
-            var claims = new List<Claim>
-        {
-            new Claim(ClaimTypes.Email, user.Email),
-            new Claim(ClaimTypes.Role, user.Role.RoleName)
-        };
+            if (Input.IsRemember)
+            {
+                var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Email, user.Email),
+                    new Claim(ClaimTypes.Role, user.Role.RoleName)
+                };
 
-            var claimsIdentity = new ClaimsIdentity(claims, "CookieAuth");
+                var claimsIdentity = new ClaimsIdentity(claims, "CookieAuth");
 
-            await HttpContext.SignInAsync("CookieAuth", new ClaimsPrincipal(claimsIdentity));
-
+                await HttpContext.SignInAsync("CookieAuth", new ClaimsPrincipal(claimsIdentity));
+            }
+            
             return RedirectToPage("/Manager/Index");
         }
     }

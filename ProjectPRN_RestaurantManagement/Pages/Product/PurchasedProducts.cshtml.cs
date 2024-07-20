@@ -2,9 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using ProjectPRN_RestaurantManagement.Models;
-using ProjectPRN_RestaurantManagement.Pages.Product;
 
-namespace ProjectPRN_RestaurantManagement.Pages.Manager.Product
+namespace ProjectPRN_RestaurantManagement.Pages.Product
 {
     public class PurchasedProductsModel : PageModel
     {

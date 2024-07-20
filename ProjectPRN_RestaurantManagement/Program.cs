@@ -1,11 +1,15 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using ProjectPRN_RestaurantManagement.Models;
+using ProjectPRN_RestaurantManagement.Pages.Account;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<RestaurantManagementContext>(options =>
     options.UseSqlServer(connectionString));
+
+builder.Services.AddTransient<IEmailSender, EmailSender>();
 
 builder.Services.AddAuthentication("CookieAuth")
     .AddCookie("CookieAuth", options =>

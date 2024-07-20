@@ -1,6 +1,6 @@
 ﻿@page
 @using ProjectPRN_RestaurantManagement.Models
-@model ProjectPRN_RestaurantManagement.Pages.Manager.Product.PurchasedProductsModel
+@model ProjectPRN_RestaurantManagement.Pages.Product.PurchasedProductsModel
 @{
     List<OrderListRespDTO>? orderedList = ViewData["ordered_list"] as List<OrderListRespDTO>;
     List<OrderDetail>? purchasedList = ViewData["purchased_list"] as List<OrderDetail>;
@@ -12,7 +12,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>POS Dash | Responsive Bootstrap 4 Admin Dashboard Template</title>
+    <title>Purchases List</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="../assets/images/favicon.ico" />
@@ -144,7 +144,7 @@
                             </a>
                             <ul id="purchase" class="iq-submenu collapse" data-parent="#iq-sidebar-toggle">
                                 <li class="active">
-                                    <a href="../backend/page-list-purchase.html">
+                                    <a href="/Product/PurchasedProducts">
                                         <i class="las la-minus"></i><span>List Purchases</span>
                                     </a>
                                 </li>
