@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {}
+    "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {
+    "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
+        "projectUniqueName": "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
         "projectName": "ProjectPRN_RestaurantManagement",
-        "projectPath": "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
+        "projectPath": "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
         "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\obj\\",
+        "outputPath": "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,6 +60,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.15, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

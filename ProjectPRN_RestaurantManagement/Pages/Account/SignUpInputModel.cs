@@ -6,6 +6,8 @@ namespace ProjectPRN_RestaurantManagement.Pages.Account
 {
     public class SignUpInputModel
     {
+        [Required]
+        public string? Username { get; set; }
 
         [Required]
         public string? FirstName { get; set; }
