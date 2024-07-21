@@ -2013,19 +2013,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tuana\\.nuget\\packages\\": {}
+    "C:\\Users\\nagis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
+      "projectUniqueName": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
       "projectName": "ProjectPRN_RestaurantManagement",
-      "projectPath": "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
-      "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuana\\OneDrive\\Máy tính\\Project_PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\obj\\",
+      "projectPath": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
+      "packagesPath": "C:\\Users\\nagis\\.nuget\\packages\\",
+      "outputPath": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nagis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
