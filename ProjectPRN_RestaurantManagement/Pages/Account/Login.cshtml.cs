@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using ProjectPRN_RestaurantManagement.Models;
+using ProjectPRN_RestaurantManagement.Models.SessionManagement;
 using System.Security.Claims;
 
 namespace ProjectPRN_RestaurantManagement.Pages.Account
@@ -52,7 +53,8 @@ namespace ProjectPRN_RestaurantManagement.Pages.Account
 
                 await HttpContext.SignInAsync("CookieAuth", new ClaimsPrincipal(claimsIdentity));
             }
-            
+            HttpContext.Session.SetObjectAsJson("User", user.Email);
+
             return RedirectToPage("/Manager/Index");
         }
     }

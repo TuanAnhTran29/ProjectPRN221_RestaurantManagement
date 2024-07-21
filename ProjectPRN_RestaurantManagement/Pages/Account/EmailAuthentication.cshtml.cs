@@ -31,6 +31,7 @@ namespace ProjectPRN_RestaurantManagement.Pages.Account
             }
 
             var user = new User();
+            user.Username = TempData["username"]?.ToString();
             user.Email = TempData["email"]?.ToString();
             user.RoleId = 3;
             user.FirstName = TempData["first_name"]?.ToString();
