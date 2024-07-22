@@ -78,6 +78,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxTZWF0Qm9va2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[A:/PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Manager/SeatBookingFailed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxTZWF0Qm9va2luZ0ZhaWxlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Manager/SeatBookingSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxTZWF0Qm9va2luZ1N1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [A:/PRN221/ProjectPRN_RestaurantManagement/ProjectPRN_RestaurantManagement/Pages/Manager/UpdateProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxVcGRhdGVQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

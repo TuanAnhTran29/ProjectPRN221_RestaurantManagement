@@ -1,16 +1,11 @@
 ﻿@page
 @using ProjectPRN_RestaurantManagement.Models
-@model ProjectPRN_RestaurantManagement.Pages.Manager.SeatBookingModel
-@{
-}
-
+@model ProjectPRN_RestaurantManagement.Pages.Manager.SeatBookingFailedModel
 @{
     String? message = ViewData["message"] as String;
     User? user = ViewData["user"] as User;
     List<SeatBooking> seatBookings = ViewData["seat_booking"] as List<SeatBooking>;
 }
-
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -463,7 +458,7 @@
                     <div class="col-lg-12">
                         <div class="d-flex flex-wrap align-items-center justify-content-between mb-4">
                             <div>
-                                <h4 class="mb-3">Seat Booking List</h4>
+                                <h4 class="mb-3">Seat Booking Reject List</h4>
                                 <p class="mb-0">
                                     A purchase dashboard enables purchasing manager to efficiently track, evaluate, <br>
                                     and optimize all acquisition processes within a company.
@@ -480,7 +475,7 @@
                     <div class="col-lg-12">
                         <div class="table-responsive rounded mb-3">
                             <table class="data-table table mb-0 tbl-server-info">
-                                        <thead class="bg-white text-uppercase">
+                                <thead class="bg-white text-uppercase">
                                     <tr class="ligth ligth-data">
                                         <th>Restaurant</th>
                                         <th>Table Number</th>
@@ -490,35 +485,27 @@
                                         <th>Representative Person</th>
                                         <th>Phone Number</th>
                                         <th></th>
-                                        <th>Action</th>
+                                        <th>Reject Date</th>
                                     </tr>
                                 </thead>
                                 <tbody class="ligth-body">
-                                        @foreach (var item in seatBookings)
-                                        {
-                                            <tr>
-                                                <td>@item.Reservation.Restaurant.Name</td>
-                                                <td>@item.Table.TableNumber</td>
-                                                <td>@item.Reservation.ReservationDate.ToString("yyyy-MM-dd HH:mm:ss")</td>
-                                                <td></td>
-                                                <td>@item.Reservation.NumberOfGuests</td>
-                                                <td>@item.Reservation.Customer.Username</td>
-                                                <td>@item.Reservation.Customer.Phone</td>
-                                                <td></td>
-                                                <td>
-                                                    <div class="d-flex align-items-center list-action">
-                                                    <a class="badge bg-success mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Approve"
-                                                       href="/Manager/SeatBooking?reservationId=@item.Reservation.ReservationId"><i class="ri-pencil-line mr-0"></i></a>
-                                                    <a class="badge bg-warning mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Delete"
-                                                       href="/Manager/SeatBooking?tableId=@item.Table.TableId"><i class="ri-delete-bin-line mr-0"></i></a>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                        }
-                                        </tbody>
+                                    @foreach (var item in seatBookings)
+                                    {
+                                        <tr>
+                                            <td>@item.Reservation.Restaurant.Name</td>
+                                            <td>@item.Table.TableNumber</td>
+                                            <td>@item.Reservation.ReservationDate.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                                            <td></td>
+                                            <td>@item.Reservation.NumberOfGuests</td>
+                                            <td>@item.Reservation.Customer.Username</td>
+                                            <td>@item.Reservation.Customer.Phone</td>
+                                            <td></td>
+                                            <td>@item.DeleteDate</td>
+                                        </tr>
                                     }
-                                    
-                                
+                                </tbody>
+
+
                             </table>
                         </div>
                     </div>
