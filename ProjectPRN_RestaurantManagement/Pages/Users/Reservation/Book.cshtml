@@ -1,9 +1,8 @@
-﻿@page "{restaurantId:int}"
+﻿@page
 @model ProjectPRN_RestaurantManagement.Pages.Users.Reservation.BookModel
 @{
     ViewData["Title"] = "Make a Reservation";
 }
-
 
 <!doctype html>
 <html lang="en">
@@ -943,7 +942,7 @@
                             <div class="card-body">
                                 <form method="post">
                                     <div class="row">
-                                        
+
                                         <div class="col-md-6">
                                             <div class="form-group">
                                                 <label>FirstName</label>
@@ -967,14 +966,15 @@
                                         <div class="col-md-6">
                                             <div class="form-group">
                                                 <label>Table Number</label>
-                                                <select name="Reservation.TableId" class="selectpicker form-control" data-style="py-0">
+                                                <select asp-for="Reservation.TableId" class="selectpicker form-control" data-style="py-0">
                                                     @foreach (var table in Model.Tables)
                                                     {
-                                                        <option value="@table.Value">@table.Text</option>
+                                                        <option value="@table.TableId">@table.TableNumber</option>
                                                     }
                                                 </select>
                                             </div>
                                         </div>
+
                                         <div class="col-md-6">
                                             <div class="form-group">
                                                 <label>Number Of Guests</label>
@@ -1054,4 +1054,3 @@
         });
     </script>
 }
-

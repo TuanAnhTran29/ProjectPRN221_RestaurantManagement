@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "15itU/SYSCju19Yva5Q7LhwSEhlJ6t7NQXQe8ZrpJJu4rBmlNa5F1o/MQx4dSp1EVt/bzE8YEgosDDQvcqMOjA==",
+  "dgSpecHash": "rFK3XiJUkyGq8vGXtKDnooLQUXul0UWHaNFgsHmN7IPM2RVkKkfJOcZt/aynqGiCNh3MeQjry0VF3D+7UXlKxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Máy tính\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Máy tính\\prn221_prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

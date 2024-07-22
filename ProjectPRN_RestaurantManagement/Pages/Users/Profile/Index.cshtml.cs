@@ -18,7 +18,7 @@ namespace ProjectPRN_RestaurantManagement.Pages.Users.Profile
             _context = context;
         }
 
-        public IList<User> User { get;set; }
+        public IList<Models.User> User { get;set; }
 
         public async Task OnGetAsync()
         {

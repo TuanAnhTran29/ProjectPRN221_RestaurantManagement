@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectPRN_RestaurantManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8108dcf97575cad58ea201e932d4b2d4033cae27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccfd381246fbcb9f8214f017023d9a6bb130b3ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectPRN_RestaurantManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectPRN_RestaurantManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
