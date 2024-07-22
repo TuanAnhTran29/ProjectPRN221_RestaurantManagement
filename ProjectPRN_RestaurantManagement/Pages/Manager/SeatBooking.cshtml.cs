@@ -21,15 +21,6 @@ namespace ProjectPRN_RestaurantManagement.Pages.Manager
             User? user = context.Users.FirstOrDefault(u => u.Email.Equals(LoggedInUser));
             ViewData["user"] = user;
 
-            var seatBookings = context.SeatBookings
-                .Include(s => s.Table)
-                .Include(s => s.Reservation)
-                .Include(s => s.Reservation.Customer)
-                .Include(s => s.Reservation.Restaurant)
-                .Where(s => s.ApproveDate == null && s.DeleteDate == null)
-                .ToList();
-            ViewData["seat_booking"]= seatBookings;
-
             if (reservationId != null)
             {
                 var seat = context.SeatBookings.FirstOrDefault(s => s.ReservationId == reservationId);
@@ -42,7 +33,8 @@ namespace ProjectPRN_RestaurantManagement.Pages.Manager
 
                 ViewData["messasge"] = "Approved Seat successfully!";
 
-            }else if (tableId != null)
+            }
+            else if (tableId != null)
             {
                 var seat = context.SeatBookings.FirstOrDefault(s => s.TableId == tableId);
 
@@ -53,7 +45,26 @@ namespace ProjectPRN_RestaurantManagement.Pages.Manager
                 context.SaveChanges();
 
                 ViewData["messasge"] = "Rejected Seat successfully!";
+
+                
             }
+
+            var seatBookings = getAllSeatBooking();
+
+            ViewData["seat_booking"] = seatBookings;
+        }
+
+        private List<SeatBooking> getAllSeatBooking()
+        {
+            var seatBookings = context.SeatBookings
+                .Include(s => s.Table)
+                .Include(s => s.Reservation)
+                .Include(s => s.Reservation.Customer)
+                .Include(s => s.Reservation.Restaurant)
+                .Where(s => s.ApproveDate == null && s.DeleteDate == null)
+                .ToList();
+
+            return seatBookings;
         }
     }
 }
