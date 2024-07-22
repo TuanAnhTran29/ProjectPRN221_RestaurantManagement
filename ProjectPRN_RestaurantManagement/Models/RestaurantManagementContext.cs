@@ -232,12 +232,26 @@ namespace ProjectPRN_RestaurantManagement.Models
 
             modelBuilder.Entity<User>(entity =>
             {
-                entity.HasIndex(e => e.Email, "UQ__Users__A9D10534A644760D")
+                entity.HasIndex(e => e.Email, "UQ__Users__A9D105346C46845B")
                     .IsUnique();
 
                 entity.Property(e => e.UserId).HasColumnName("UserID");
 
                 entity.Property(e => e.Address).HasMaxLength(255);
+
+                entity.Property(e => e.CreateAt)
+                    .HasColumnType("datetime")
+                    .HasColumnName("Create_at");
+
+                entity.Property(e => e.CreateBy).HasColumnName("Create_by");
+
+                entity.Property(e => e.DeleteAt)
+                    .HasColumnType("datetime")
+                    .HasColumnName("Delete_at");
+
+                entity.Property(e => e.DeleteBy).HasColumnName("Delete_by");
+
+                entity.Property(e => e.Dob).HasColumnType("date");
 
                 entity.Property(e => e.Email).HasMaxLength(100);
 
@@ -250,6 +264,16 @@ namespace ProjectPRN_RestaurantManagement.Models
                 entity.Property(e => e.Phone).HasMaxLength(15);
 
                 entity.Property(e => e.RoleId).HasColumnName("RoleID");
+
+                entity.Property(e => e.UpdateAt)
+                    .HasColumnType("datetime")
+                    .HasColumnName("Update_at");
+
+                entity.Property(e => e.UpdateBy).HasColumnName("Update_by");
+
+                entity.Property(e => e.Username)
+                    .HasMaxLength(255)
+                    .IsUnicode(false);
 
                 entity.HasOne(d => d.Role)
                     .WithMany(p => p.Users)

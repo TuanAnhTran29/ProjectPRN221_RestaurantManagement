@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using ProjectPRN_RestaurantManagement.Models;
+using ProjectPRN_RestaurantManagement.Models.SessionManagement;
 
 namespace ProjectPRN_RestaurantManagement.Pages.Product
 {
@@ -15,6 +16,10 @@ namespace ProjectPRN_RestaurantManagement.Pages.Product
         }
         public void OnGet(int? orderId)
         {
+            var LoggedInUser = HttpContext.Session.GetObjectFromJson<String>("User");
+            User? user = context.Users.FirstOrDefault(u => u.Email.Equals(LoggedInUser));
+            ViewData["user"] = user;
+
             List<OrderDetail> purchasedProducts = context.OrderDetails
                 .Include(m => m.MenuItem)
                 .Include(m => m.Order)
