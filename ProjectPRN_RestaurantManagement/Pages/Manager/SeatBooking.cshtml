@@ -2,9 +2,6 @@
 @using ProjectPRN_RestaurantManagement.Models
 @model ProjectPRN_RestaurantManagement.Pages.Manager.SeatBookingModel
 @{
-}
-
-@{
     String? message = ViewData["message"] as String;
     User? user = ViewData["user"] as User;
     List<SeatBooking> seatBookings = ViewData["seat_booking"] as List<SeatBooking>;
@@ -48,7 +45,7 @@
             <div class="data-scrollbar" data-scroll="1">
                 <nav class="iq-sidebar-menu">
                     <ul id="iq-sidebar-toggle" class="iq-menu">
-                        <li class="active">
+                        <li class="">
                             <a href="/Manager/Index" class="svg-icon">
                                 <svg class="svg-icon" id="p-dash1" width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
@@ -72,12 +69,12 @@
                                 </svg>
                             </a>
                             <ul id="product" class="iq-submenu collapse" data-parent="#iq-sidebar-toggle">
-                                <li class="">
+                                <li class="active">
                                     <a href="/Manager/SeatBooking">
                                         <i class="las la-minus"></i><span>Seat Booking List</span>
                                     </a>
                                 </li>
-                                <li class="active">
+                                <li class="">
                                     <a href="/Manager/SeatBookingFailed">
                                         <i class="las la-minus"></i><span>Seat Booking Reject List</span>
                                     </a>
@@ -516,9 +513,6 @@
                                             </tr>
                                         }
                                         </tbody>
-                                    }
-                                    
-                                
                             </table>
                         </div>
                     </div>
