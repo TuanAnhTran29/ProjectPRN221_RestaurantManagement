@@ -22,11 +22,11 @@ namespace ProjectPRN_RestaurantManagement.Models
         public virtual DbSet<MenuItem> MenuItems { get; set; } = null!;
         public virtual DbSet<Order> Orders { get; set; } = null!;
         public virtual DbSet<OrderDetail> OrderDetails { get; set; } = null!;
-        public virtual DbSet<Reservation> Reservations { get; set; } = null!;
-        public virtual DbSet<Restaurant> Restaurants { get; set; } = null!;
+        public virtual DbSet<Reservation> Reservations { get; set; }
+        public virtual DbSet<Restaurant> Restaurants { get; set; }
         public virtual DbSet<Role> Roles { get; set; } = null!;
         public virtual DbSet<SeatBooking> SeatBookings { get; set; } = null!;
-        public virtual DbSet<Table> Tables { get; set; } = null!;
+        public virtual DbSet<Table> Tables { get; set; }
         public virtual DbSet<User> Users { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\reservation\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\reservation\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\profile\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\profile\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\reservation\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\reservation\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\profile\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\profile\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\reservation\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\reservation\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\profile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\profile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\profile\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\profile\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\models\\seatbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\models\\seatbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\pages\\users\\profile\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\users\\profile\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn_prj\\projectprn221_restaurantmanagement\\projectprn_restaurantmanagement\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 998,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,94 +102,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
-              "ViewState": "AQIAAGgDAAAAAAAAAAAAAIIDAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T16:32:11.329Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Book.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Book.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Book.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Book.cshtml.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Book.cshtml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T19:57:21.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Index.cshtml.cs",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T16:24:32.442Z",
+              "DocumentIndex": 0,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Book.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Book.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Book.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Book.cshtml",
+              "ViewState": "AQIAALsDAAAAAAAAAAAAANcDAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T19:57:21.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Index.cshtml.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T19:55:11.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Index.cshtml",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Index.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Reservation\\Index.cshtml",
+              "ViewState": "AQIAAK0DAAAAAAAAAAAIwLgDAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T16:24:23.042Z",
+              "WhenOpened": "2024-07-21T19:55:11.244Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\User.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T18:25:09.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Details.cshtml.cs",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Details.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Models\\Table.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\Table.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Models\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T16:21:00.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Details.cshtml",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Details.cshtml",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Details.cshtml",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T16:21:00.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Edit.cshtml.cs",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Edit.cshtml.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T16:20:59.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T17:27:05.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\Reservation.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T18:24:25.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\Restaurant.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:27:01.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Edit.cshtml",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Edit.cshtml",
               "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Edit.cshtml",
               "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Users\\Profile\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T16:20:58.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T19:52:46.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeatBooking.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\SeatBooking.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Models\\SeatBooking.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\SeatBooking.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Models\\SeatBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T18:24:51.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN_Prj\\ProjectPRN221_RestaurantManagement\\ProjectPRN_RestaurantManagement\\Models\\Role.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T18:24:48.382Z"
             }
           ]
         },

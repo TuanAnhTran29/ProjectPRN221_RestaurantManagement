@@ -19,5 +19,9 @@ namespace ProjectPRN_RestaurantManagement.Models
         public virtual User? Customer { get; set; }
         public virtual Restaurant? Restaurant { get; set; }
         public virtual ICollection<SeatBooking> SeatBookings { get; set; }
+        public int? TableId { get; set; }
+        public virtual Table? Table { get; set; }
+
+
     }
 }
