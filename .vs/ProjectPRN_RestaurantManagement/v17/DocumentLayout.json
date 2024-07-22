@@ -3,24 +3,84 @@
   "WorkspaceRootPath": "D:\\Project PRN221\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\product\\purchasedproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\product\\purchasedproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\admin\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\admin\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\admin\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\admin\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\admin\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\admin\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\admin\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\admin\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\product\\purchasedproducts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\product\\purchasedproducts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\admin\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\admin\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\emailauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\emailauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\confirmverifyforchangepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\confirmverifyforchangepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\confirmemailauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\confirmemailauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\product\\orderlistrespdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\product\\orderlistrespdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\product\\purchasedproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\product\\purchasedproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\manager\\orders\\orderedproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -63,24 +123,8 @@
       "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\confirmverifyforchangepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\emailauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\emailauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\confirmemailauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\confirmemailauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\emailauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|solutionrelative:projectprn_restaurantmanagement\\pages\\account\\emailauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE8A6088-07A1-4A7D-B12A-2C8DF2DB15D6}|ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj|d:\\project prn221\\projectprn_restaurantmanagement\\pages\\account\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,8 +138,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 998,
-          "SelectedChildIndex": 151,
+          "SelectedChildIndex": 154,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Create.cshtml",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Create.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Create.cshtml",
+              "ViewState": "AQIAAKgDAAAAAAAAAAAAANEDAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:38:13.175Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -702,32 +760,209 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Index.cshtml",
-              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Index.cshtml",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Edit.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAM0DAAAAAAAAAAAAABAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T12:29:20.298Z",
+              "WhenOpened": "2024-07-21T15:53:39.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PurchasedProducts.cshtml.cs",
-              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Product\\PurchasedProducts.cshtml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Product\\PurchasedProducts.cshtml.cs",
-              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Product\\PurchasedProducts.cshtml.cs",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Product\\PurchasedProducts.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Edit.cshtml.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Edit.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T18:46:07.94Z"
+              "WhenOpened": "2024-07-21T15:53:42.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Index.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Index.cshtml",
+              "ViewState": "AQIAAN8DAAAAAAAAAAAiwOkDAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T18:27:57.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T18:42:14.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Models\\User.cs",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Models\\User.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwBMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T20:22:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAI0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:31:42.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Create.cshtml.cs",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Create.cshtml.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Create.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:29:04.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Index.cshtml.cs",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Index.cshtml.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Admin\\Users\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T23:31:47.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T18:42:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Error.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T18:42:21.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T18:42:26.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailAuthentication.cshtml.cs",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml.cs",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:09:02.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:01:11.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfirmVerifyForChangePassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmVerifyForChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmVerifyForChangePassword.cshtml.cs",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmVerifyForChangePassword.cshtml.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmVerifyForChangePassword.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:51:29.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfirmEmailAuthentication.cshtml.cs",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmEmailAuthentication.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmEmailAuthentication.cshtml.cs",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmEmailAuthentication.cshtml.cs",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmEmailAuthentication.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:51:25.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:19:45.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "OrderListRespDTO.cs",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Product\\OrderListRespDTO.cs",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Product\\OrderListRespDTO.cs",
@@ -739,20 +974,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\appsettings.json",
+              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\appsettings.json",
+              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T14:12:18.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "PurchasedProducts.cshtml",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Product\\PurchasedProducts.cshtml",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Product\\PurchasedProducts.cshtml",
               "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Product\\PurchasedProducts.cshtml",
               "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Product\\PurchasedProducts.cshtml",
-              "ViewState": "AQIAAIcAAAAAAAAAAAASwJMAAABfAAAA",
+              "ViewState": "AQIAAM0DAAAAAAAAAIAwwM0DAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T18:42:47.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T18:42:47.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "OrderedProduct.cshtml.cs",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Manager\\Orders\\OrderedProduct.cshtml.cs",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Manager\\Orders\\OrderedProduct.cshtml.cs",
@@ -764,7 +1010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "OrderedProduct.cshtml",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Manager\\Orders\\OrderedProduct.cshtml",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Manager\\Orders\\OrderedProduct.cshtml",
@@ -776,43 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
-              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Manager\\Index.cshtml",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAAAI0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T18:31:42.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEsAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T18:19:45.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAkwDYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T18:01:11.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "ChangePasswordForm.cshtml.cs",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ChangePasswordForm.cshtml.cs",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ChangePasswordForm.cshtml.cs",
@@ -824,7 +1034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "ConfirmVerifyForChangePassword.cshtml",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmVerifyForChangePassword.cshtml",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmVerifyForChangePassword.cshtml",
@@ -836,7 +1046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "ChangePasswordForm.cshtml",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ChangePasswordForm.cshtml",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ChangePasswordForm.cshtml",
@@ -848,7 +1058,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "VerifyForgotPassword.cshtml.cs",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\VerifyForgotPassword.cshtml.cs",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\VerifyForgotPassword.cshtml.cs",
@@ -860,7 +1070,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "SignUp.cshtml.cs",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\SignUp.cshtml.cs",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\SignUp.cshtml.cs",
@@ -872,7 +1082,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "ForgotPassword.cshtml.cs",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ForgotPassword.cshtml.cs",
@@ -884,7 +1094,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "VerifyForgotPassword.cshtml",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\VerifyForgotPassword.cshtml",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\VerifyForgotPassword.cshtml",
@@ -896,7 +1106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "ForgotPassword.cshtml",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ForgotPassword.cshtml",
@@ -908,7 +1118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "ConfirmEmailAuthentication.cshtml",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmEmailAuthentication.cshtml",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\ConfirmEmailAuthentication.cshtml",
@@ -920,7 +1130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailSender.cs",
               "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailSender.cs",
@@ -929,30 +1139,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T11:09:21.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EmailAuthentication.cshtml.cs",
-              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml.cs",
-              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml.cs",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwBoAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T11:09:02.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EmailAuthentication.cshtml",
-              "DocumentMoniker": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml",
-              "RelativeDocumentMoniker": "ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml",
-              "ToolTip": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml",
-              "RelativeToolTip": "ProjectPRN_RestaurantManagement\\Pages\\Account\\EmailAuthentication.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFUAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T11:09:00.962Z"
             }
           ]
         },

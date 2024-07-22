@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace ProjectPRN_RestaurantManagement.Models
 {
@@ -14,9 +15,12 @@ namespace ProjectPRN_RestaurantManagement.Models
 
         public int UserId { get; set; }
         public int? RoleId { get; set; }
+        [Display(Name = "First Name")]
         public string FirstName { get; set; } = null!;
+        [Display(Name = "Last Name")]
         public string LastName { get; set; } = null!;
         public string Email { get; set; } = null!;
+        [Display(Name = "Password")]
         public string PasswordHash { get; set; } = null!;
         public string? Phone { get; set; }
         public string? Address { get; set; }
