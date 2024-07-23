@@ -201,6 +201,10 @@ namespace ProjectPRN_RestaurantManagement.Models
             {
                 entity.Property(e => e.SeatBookingId).HasColumnName("SeatBookingID");
 
+                entity.Property(e => e.ApproveDate).HasColumnType("datetime");
+
+                entity.Property(e => e.DeleteDate).HasColumnType("datetime");
+
                 entity.Property(e => e.ReservationId).HasColumnName("ReservationID");
 
                 entity.Property(e => e.TableId).HasColumnName("TableID");
