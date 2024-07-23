@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {}
+    "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {}
   },
   "projects": {
-    "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {
+    "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
+        "projectUniqueName": "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
         "projectName": "ProjectPRN_RestaurantManagement",
-        "projectPath": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
-        "packagesPath": "C:\\Users\\nagis\\.nuget\\packages\\",
-        "outputPath": "D:\\Project PRN221\\ProjectPRN_RestaurantManagement\\obj\\",
+        "projectPath": "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement.csproj",
+        "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
+        "outputPath": "A:\\PRN221\\ProjectPRN_RestaurantManagement\\ProjectPRN_RestaurantManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nagis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
