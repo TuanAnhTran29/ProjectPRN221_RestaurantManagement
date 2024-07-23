@@ -6,6 +6,17 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="wwwroot\js\**" />
+    <Compile Remove="wwwroot\vendor\**" />
+    <Content Remove="wwwroot\js\**" />
+    <Content Remove="wwwroot\vendor\**" />
+    <EmbeddedResource Remove="wwwroot\js\**" />
+    <EmbeddedResource Remove="wwwroot\vendor\**" />
+    <None Remove="wwwroot\js\**" />
+    <None Remove="wwwroot\vendor\**" />
+  </ItemGroup>
+
 	<ItemGroup>
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.15">
 			<PrivateAssets>all</PrivateAssets>
@@ -24,13 +35,6 @@
     <Content Update="appsettings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\js\" />
-    <Folder Include="wwwroot\js\" />
-    <Folder Include="wwwroot\vendor\" />
-    <Folder Include="wwwroot\vendor\" />
   </ItemGroup>
 
 </Project>
